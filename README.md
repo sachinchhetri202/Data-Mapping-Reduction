@@ -1,5 +1,5 @@
 "# Data-Mapping-Reduction" 
-Part 1: Find the State with the highest density of each of the race categories (e.g.Hispanic, White, Black, Native, Asian, Pacific) - (6 answers). Please note that "Puerto Rico" is not a state even though it is in the data.
+Part 1: Find the State with the highest density of each of the race categories (e.g.Hispanic, White, Black, Native, Asian, Pacific)
 
 Part 2: Report which state has the following:
 Highest Unemployment (percentage - based on the 'Unemployment' column)
